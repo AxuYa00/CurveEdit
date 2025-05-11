@@ -45,7 +45,8 @@ python main.py
 
 -点击右侧按钮：清除所有点
 
-📁 项目结构
+
+## 📁 项目结构
 
 curve_editor.py：主程序
 
