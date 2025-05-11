@@ -1,4 +1,4 @@
-# CURVEEDIT - 交互式曲线编辑器
+# CURVEEDIT - 交互式曲线编辑器（PyQt6 版本）
 
 CURVEEDIT 是一个基于 Python 和 PyQt6 框架开发的交互式曲线编辑工具。  
 用户可通过鼠标在画布中添加、拖动控制点，系统自动绘制平滑的 Catmull-Rom 样条曲线。
@@ -38,15 +38,11 @@ python main.py
 ## 🖱 操作说明
 
 -左键点击空白处：添加控制点
+
 -右键点击控制点：拖动点移动
+
 -右键点击曲线：插入新点后可拖动
+
 -点击右侧按钮：清除所有点
 
-## 📁 项目结构
 
-CURVEEDIT/
-├── curve_editor.py      # 主窗口程序
-├── utils.py             # 插值算法与辅助函数
-├── main.py              # 入口函数（可选）
-├── requirements.txt     # 项目依赖
-└── README.md
