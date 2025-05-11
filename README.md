@@ -52,4 +52,8 @@ curve_editor.py：主程序
 
 utils.py：插值与距离工具
 
+<<<<<<< HEAD
 requirements.txt：依赖文件
+=======
+requirements.txt：依赖文件
+>>>>>>> 2857aa3 (更新 README.md 内容)
